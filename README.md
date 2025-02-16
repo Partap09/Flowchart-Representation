@@ -12,3 +12,7 @@ the diagram shows the opp class named flower with attributes and Methods
 # Flower OOP Code and run
 
 the file shows the code run to determine the flowers growing and bloming 
+
+# Network design
+
+The design shows different devices connected to each others through a Network.
