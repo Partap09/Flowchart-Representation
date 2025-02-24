@@ -20,3 +20,7 @@ The design shows different devices connected to each others through a Network.
 # SQL Code Running Query
 
 The File depicts the Order details and Quantity more than 20 by their productID.
+
+# Web Initiative
+
+This file show My HTML web Initiative practice that includes <html> <head> <title> <body>.
